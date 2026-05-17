@@ -3,7 +3,7 @@ A clean, responsive user profile card built with HTML and CSS. Designed to displ
 
 
 ## Live Demo
-View Live Analog Clock🌐
+View Live 🌐
 https://ankamahjohnson.github.io/dev-profile-card/
 
 

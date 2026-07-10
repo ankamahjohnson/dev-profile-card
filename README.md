@@ -12,7 +12,6 @@ https://ankamahjohnson.github.io/dev-profile-card/
 - Profile photo with circular crop styling
 - Contact details section with icons for email, phone, website, and location
 - Social media links with branded icon buttons (Facebook, Twitter, Instagram, YouTube)
-- Teal/dark header banner for visual contrast
 - Clean typography and minimal design
 - Fully responsive across all devices
   
